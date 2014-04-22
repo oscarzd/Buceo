@@ -116,3 +116,144 @@ Cyalume o luz química: se atan a la botella o al BCD durante inmersiones nocturn
 Pizarra subacuática: permite la comunicación escrita o gráfica bajo el agua.
 Sonajero, maraca o bocina: permiten avisar mediante señales acústicas a un buceador próximo.
 Boya inflable: se puede inflar con el aire comprimido de la botella, sirve para marcar una posición, o como ayuda para sacar objetos pesados del agua.
+
+Fundamentos del buceo
+
+Como cualquier masa, el cuerpo de un buceador se ve sujeto a los diversos efectos físicos de la inmersión; estos conllevan a su vez una serie de efectos y respuestas fisiológicas importantes a considerar, pues son ellas que dictan los límites de seguridad.
+
+Fundamentos físicos
+
+Los tres pilares de la física del buceo son el principio de Arquímedes, la presión y las leyes de los gases. El primero explica el fenómeno de flotabilidad, el segundo la variación de la presión con la profundidad y el último el comportamiento de los gases al variar la presión (el volumen y la temperatura).
+
+ 
+
+Arquímedes
+
+El principio de Arquímedes se aplica al buzo como un todo. El cuerpo del buzo (y su equipo) presentan una masa total y desplazan un volumen de agua equivalente al volumen del cuerpo sumergido. El buzo está sometido entonces a un par de fuerzas opuestas: por un lado el efecto de la gravedad sobre su masa (el peso del buzo y su equipo), por otro lado la fuerza de flotación ejercida por el agua, equivalente a la masa de agua del volumen desplazado por el buzo.
+
+Cuando la masa del buzo es mayor que la masa del volumen de agua desplazada su flotabilidad es negativa, el buzo tiende al fondo. Cuando la masa del buzo es menor que la masa equivalente a su volumen su flotabilidad es positiva, el buzo tiende a la superficie. La situación en la que las fuerzas son equivalentes, la masa del buzo es igual a la masa del agua que desplaza, la flotabilidad se considera neutra; la fuerza ascendente se anula con la fuerza descendente.
+
+El principio de Arquímedes no tiene mayor incidencia sobre la fisiología del buceo. Su aplicación es lo que permite al buzo autónomo mantener una flotabilidad neutra y es uno de los aliados más importantes del buzo en apnea. Este último aprovecha el cambio en su densidad corporal total en inmersión y de la posición relativa (con respecto a su centro de gravedad - centro másico) de los pulmones. En superficie el apneísta presenta una flotabilidad positiva, que es vencida fácilmente en una buena maniobra de inmersión (cabeza primero) y que es vencida rápidamente al comprimirse el aire de sus pulmones con la profundidad (ver ley de Boyle-Mariotte). A partir de determinada profundidad su flotabilidad se vuelve negativa y le permite realizar un descenso sin esfuerzo. La situación de los pulmones por debajo del centro másico del buzo durante el descenso tiene por efecto un acercamiento de la profundidad de flotabilidad neutra a la superficie. Durante el ascenso, con la cabeza hacia arriba, los pulmones están por encima del centro másico del buzo y la profundidad de flotabilidad neutra se desplaza hacia el fondo. Así el esfuerzo activo de ascenso se ve reducido y la fase pasiva (de flotabilidad positiva) es alcanzada más lejos de la superficie.
+
+Presión
+
+La presión es la fuerza por unidad de área ejercida sobre una superficie. Un fluido ejerce una presión homogénea en todo punto de un objeto sumergido en él, que depende de la profundidad a la que este se encuentra, siendo los vectores de fuerza siempre perpendiculares a la superficie de dicho cuerpo. La presión absoluta a la que se ve sometido un cuerpo en inmersión es la suma de la presión atmosférica (debida al peso de la columna de aire) y la presión hidrostática (debida al peso de la columna de agua). Así, el efecto de presión es menor en altitud que a nivel del mar y, debido a que el agua salada es más densa que el agua dulce, a igual profundidad, un buzo en un lago está sometido a menor presión que un buzo en el mar.
+
+La presión atmosférica normal a nivel del mar es de 1 atmósfera. La presión ejercida por una columna de 10 m de agua de mar equivale más o menos 1 atmósfera de presión. Luego, para cálculos rápidos y sencillos, asumimos que por cada 10 metros de profundidad, la presión aumenta 1 atmósfera ó 1 bar, pues 1,013 bar=1 atm. De este modo, podemos decir con suficiente precisión, que la presión ejercida sobre un cuerpo a 10 m bajo la superficie del mar es de 2 bar (1 bar = P. atmosférica + 1 bar P. hidrostática).
+
+Finalmente, el principio de Pascal determina que la presión ejercida sobre un fluido, en este caso la atmosférica, se transmite uniformemente por todo el fluido, de manera que la presión atmosférica se transimite, y se suma en cada plano a una misma profundidad, a la presión hidrostática. De igual forma, en cada tejido blando del buzo se transmite la presión total, haciendo que la presión interna de las cavidades sea igual a la externa.
+
+ 
+
+Leyes de los gases
+
+El cuerpo humano no es en definitiva una masa uniforme. Si bien nuestros tejidos están conformados mayoritariamente por agua (los líquidos idealmente son incompresibles); la presencia de cavidades y el comportamiento físico particular de los fluidos en fase gaseosa (aire) determinan de lejos los límites a que el cuerpo humano puede soportar.
+
+ 
+
+Ley general de los gases
+
+La ley general de los gases explica el comportamiento de estos con relación a las variables de presión, temperatura y volumen. Así, en una masa constante de un gas la relación entre estas variables se ve definida por la siguiente igualdad:
+
+
+\cfrac{P_1V_1}{T_1}=\cfrac{P_2V_2}{T_2}
+
+
+Donde P es presión, V es volumen y T es temperatura; en dos situaciones distintas (1 y 2).
+
+Lo que explica esta ley es que un cambio en magnitud de cualquiera de las variables de un gas de un estado inicial (1), acarreará irrevocablemente al ajuste de las variables complementarias en su estado final (2) para respetar la igualdad.
+
+Si la temperatura se mantiene constante (T1=T2), es posible retirarla de la ecuación pues su efecto sobre el equilibrio de la misma es nulo. El equilibrio se mantiene pues, únicamente por las variaciones en la relación entre presión y volumen.
+
+ 
+
+Ley de Boyle - Mariotte
+
+Artículo principal: Ley de Boyle-Mariotte
+Expresa el equilibrio de un gas a temperatura constante. Durante la inmersión la variación de temperatura del aire es mínima y por lo tanto la ley de Boyle es especialmente práctica para entender la relación entre presión y volumen. Básicamente, esta se ve enunciada en la siguiente igualdad:
+
+P1V1 = P2V2
+
+La presión es inversamente proporcional al volumen de un gas: al aumentar la presión sobre una masa de gas, el volumen de este disminuye proporcionalmente.
+
+Así, una masa constante de aire que en superficie (1 bar) ocupa un litro, verá su volumen reducido a la mitad (\begin{matrix} \frac{1}{2} \end{matrix} L) al someterse a una presión de 2 bar (-10 m), a un tercio (\begin{matrix} \frac{1}{3} \end{matrix} L) a 3 bar (-20 m) y así sucesivamente.
+
+De igual manera, un litro de aire a 3 bar (-20m), doblará su volumen a 2 bar (2 L a -10 m) y lo triplicará a 1 bar (3 L en superficie).
+
+ 
+
+Ley de Dalton
+
+Artículo principal: Ley de las proporciones múltiples
+El aire no es un gas puro, sino una mezcla de gases. La ley de Dalton explica que la presión total de una mezcla de gases es la suma de las presiones que ejercerían cada uno de los gases componentes ocupando a ellos solos el volumen total.
+
+Esta ley también se conoce como la ley de las presiones parciales, pues implica que la presión parcial de un gas en una mezcla de gases sometida a una presión X, es directamente proporcional a la proporción en que ese gas está presente en la mezcla.
+
+Esto quiere decir, que si en una mezcla de gases un ingrediente representa el 20% del volumen de la mezcla a una presión P, el ingrediente que nos interesa presenta una presión parcial de 0,2 P.
+
+El aire normal la composición es, aproximadamente, de un 21% Oxígeno y 78% Nitrógeno, con un 1% de otros gases (fundamentalmente argón). Redondeando, la presión parcial de cada uno de sus componentes será:
+
+Presión parcial de los componentes del Aire
+Presión Total	Presión parcial O2	Presión parcial N2	Profundidad equivalente
+1 bar	0,2 bar	0,8 bar	Superficie = Presión atmosférica
+2 bar	0,4 bar	1,6 bar	-10 m = 1 bar P. hidrostática + 1 bar P. atmosférica
+3 bar	0,6 bar	2,4 bar	-20m = 2 bar P. hidrostática + 1 bar P. atmosférica
+4 bar	0,8 bar	3,2 bar	-30m = 3 bar P.hidrostática + 1 bar P. atmosférica
+...	...	...	...
+Pbar	0,2 Pbar	0,8 Pbar	(P-1)*-10 m = (P-1)bar P. hidrostática + 1 bar P. atmosférica
+ 
+
+Ley de Henry de disolución de los gases
+
+Artículo principal: Ley de Henry
+Cuando un gas entra en contacto con un líquido, las moléculas de gas (debido a su energía termodinámica - presión y temperatura), van a penetrar la interface gas-líquido y difundirse en su interior. A este fenómeno se le conoce con el nombre de disolución de los gases.
+
+Cuando un gas se encuentra disuelto en fase líquida se habla de tensión (T) de un gas, a diferencia de la presión parcial (p) de un gas que hace referencia a gases en una mezcla de fase gaseosa.
+
+La ley de Henry explica que a una temperatura dada y en condición de saturación, la cantidad de gas disuelto en un líquido, es directamente proporcional a la presión ejercida por el gas sobre la superficie del líquido.
+
+El concepto de saturación enunciado en la ley de Henry se refiere al equilibrio que existe entre la presión del gas (en la fase gaseosa) y la tensión del mismo (en la fase líquida). Se habla de condición de subsaturación cuando la presión es superior a la tensión, de saturación cuando la presión y la tensión son equivalentes, y de sobresaturación cuando la presión es menor que la tensión del gas disuelto. Un líquido en condición de subsaturación disolverá el gas de la fase gaseosa hasta encontrar el equilibrio (saturación). Un líquido en sobresaturación va a eliminar gas disuelto para encontrar el equilibro (saturación).
+
+ 
+
+Ley de difusión de Graham
+
+Artículo principal: Ley de Graham
+El fenómeno de difusión entre dos gases, es decir, la velocidad a la que se mezclan es explicado por esta ley. Básicamente enuncia que la velocidad de difusión de dos gases, a condiciones iguales de temperatura y presión, es inversamente proporcional a la raíz de sus masas molares.
+
+Dicho en otros términos, a igual temperatura y presión, la velocidad de difusión de un gas de moléculas "ligeras" se difunde más rápido que uno de moléculas "pesadas".
+
+Los dos principales gases en el aire, el nitrógeno (N) y el oxígeno (O) se encuentran en las formas moleculares N2 y O2. La masa molar del nitrógeno es de 28, mientras que la del oxígeno es de 32. Por lo tanto la velocidad de difusión del nitrógeno es mayor que la del oxígeno.
+
+Ley de difusión de Fick
+
+Artículo principal: Ley de Fick
+Describe la tasa de transferencia de un gas a través de una membrana (o capa de tejido). Ésta es proporcional a superficie expuesta así como a la diferencia entre las presiones de sus dos fases e inversamente proporcional al espesor de la membrana/tejido. Además la velocidad de difusión es proporcional a la constante de difusión (particular al tipo de tejido y de gas que interviene).
+
+ 
+
+Fundamentos fisiológicos y riesgos
+
+Las anteriores reglas físicas tienen una influencia certera en el cuerpo de un buzo en inmersión y conllevan una serie de efectos mecánicos y bioquímicos a considerar.
+
+ 
+
+El modelo físico del cuerpo humano
+
+El cuerpo humano está compuesto de materia en sus tres fases básicas (sólida, líquida y gaseosa). La única estructura rígida la constituye el sistema esquelético, el cual tiene la función mecánica de soportar los demás órganos y tejidos (principalmente los músculos y con la ayuda de estos las vísceras). Los componentes del cuerpo unidos directamente al esqueleto (como la mayoría de los músculos) conservan su posición relativa, los componentes "libres" o poco asociados al esqueleto (como las vísceras abdominales) mantienen su posición por equilibrio de fuerzas. Luego está el sistema respiratorio, consta de sacos y conductos propios representa los órganos y tejidos con fase gaseosa por exelencia. El tejido sanguíneo representa la fase líquida más importante del cuerpo. Finalmente todos los demás tejidos (músculos y visceras) tienen la consistencia propia de la carne: en mayor o menor medida firmes y deformables.
+
+Esto, ligado a la arquitectura anatómica, permiten definir tres "compartimentos" básicos a tener en cuenta:
+
+Cajas rígidas determinadas por el sistema esquelético: la caja craneana (importante por contener cavidades en fase gaseosa -senos nasales, frontales y parafrontales; y parcialmente los conductos auditivos-) y la caja torácica (que contiene los pulmones y el corazón).
+Las vísceras abdominales: separadas de la caja torácica por el diafragma, pero con tejidos muy elásticos y deformables.
+La masa sanguínea: en fase líquida, irrigando todo el cuerpo a través de vasos, pero con volúmenes considerables en el corazón y en los órganos muy vascularizados (pulmones y sistema nervioso).
+ 
+
+Los reflejos de inmersión en el hombre
+
+Además de considerar al cuerpo del buzo como un conglomerado de materiales, cada uno con sus propiedades físicas, es necesario explicar algunos mecanismos fisiológicos reflejos que se desencadenan en inmersión.
+
+El hombre es un ser esencialmente terrestre y por tanto su fisiología esta completamente adaptada a este tipo de vida. Como sus coterraneos animales, la fisiología humana ha heredado una serie de mecanismos de respuesta fisiológica y sistémica (no voluntaria) a la situación de inmersión. Estas respuestas se denominan "reflejos de inmersión" y consisten en:
+
+Disminución del ritmo cardiaco: desencadenado por el aumento en la presión arterial.
+Hipervolemia (aumento del volumen de plasma sanguíneo), que es contrarrestado por un aumento en la diuresis (secreción de orina).

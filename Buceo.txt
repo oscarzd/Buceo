@@ -16,3 +16,103 @@ El buceo deportivo se ha popularizado y democratizado asombrosamente en los últi
 
 Las particularidades fisiológicas específicas a la actividad, hacen necesario el seguimiento de reglas estrictas y el respeto de límites de seguridad. La práctica responsable y segura del buceo deportivo (particularmente en el caso del SCUBA) requiere una formación especial.Cada país es responsable de la reglamentación y control de este tipo de actividad recreativa; y por regla general una titulación reconocida es exigida, certificando el conocimiento de determinadas reglas, normas o experiencia. En el mundo hay diferentes agencias certificadoras, y entidades gubernamentales o privadas que se encargan de garantizar estos procesos como S.S.I. (Escuela Internacional de Buceo) SSI, P.A.D.I. (Asociación Profesional de Instructores de Buceo) PADI, A.C.U.C. (American Canadian Underwater Certification, [1]), N.A.U.I. (Asociación Americana de Instructores Subacuáticos)NAUI, C.M.A.S. (Confederación Mundial de Actividades Subacuáticas) CMAS y B.S.A.C. entre otros. Estos organismos son los garantes del conocimiento de los estándares mínimos de formación para cada nivel de competencia de sus alumnos afiliados. El nivel de competencia certificada del buzo se ve reflejado en el tipo de titulación.	
 Durante inmersiones en aguas abiertas y con tráfico es obligatorio la declaración de la actividad a las demás embarcaciones mediante una boya deco (bandera de advertencia). En el código de señales marítimas internacionales se estipula que la bandera alfa (A) en una embarcación estacionaria significa "buzo (s) en inmersión"; aunque para los buceadores la bandera roja con diagonal blanca, izada en una embarcación estacionaria o en una boya también indica buzo en inmersión, el código de señales marítimas no la reconoce.
+
+Equipo necesario
+
+El equipo necesario para el buceo se divide en equipo ligero (básico) y equipo autónomo (SCUBA).
+
+ 
+
+Equipo básico o ligero
+
+Es aquel que posibilita el buceo en apnea. Los elementos que componen este equipo son:
+
+ 
+
+Máscara
+
+	Es el elemento que permite ver bajo el agua. Sin ella el contacto directo del agua con los ojos no permitiría ver bajo el agua debido a razones ópticas. Con la máscara se interpone una capa de aire entre los ojos y el agua facilitando la visión. Además de cubrir los ojos, cubre también la nariz. Está compuesta de un faldón de goma o silicona (preferentemente) que se adapta a la cara, unos cristales planos y templados (gran dureza) y unas tiras de sujeción que, como su nombre indica, sujetan la máscara a la cabeza. Una buena máscara debe presentar las siguientes condiciones:
+El visor debe incluir la nariz en su volumen interno, para permitir equilibrar presiones en inmersión y evitar el fenómeno de ventosa.
+Estanca, de manera que el faldón se ajuste perfecta y cómodamente al perfil de la cara.
+Tubo respirador o snorkel. Permite respirar con la cabeza metida en el agua, pero sin abandonar la superficie,
+ 
+
+Traje de buceo
+
+	Su cometido es proteger al buzo de la hipotermia. El aislamiento térmico de la piel no es adaptado al medio acuático, debido a que el calor específico del agua es superior al del aire, el cuerpo en inmersión pierda calor mucho más rápido que en el aire. En aguas por debajo de los 27 °C es recomendable estar aislado térmicamente, temperaturas menores 22 °C hacen necesario estarlo y con 15 °C o menos es indispensable un buen aislamiento térmico.
+Existen tres tipos básicos de trajes de aislamiento: los trajes húmedos, los trajes semi secos y los trajes secos o estancos. Los primeros generalmente son trajes confeccionados en materiales espumosos y resistentes (como el neopreno), que conforman una capa de aislamiento entre el medio y la piel, pero no son estancos. Su eficiencia depende del grosor de la espuma y del ajuste al cuerpo, el segundo tipo de traje es como el primero pero con refuerzos de estanqueidad en puños, tobillos, cuello y una cremallera que disminuye la entrada de agua entre el traje y la piel Como su nombre lo indica, los trajes secos mantienen el cuerpo por fuera del contacto con el agua, limitando considerablemente la pérdida de temperatura; además pueden combinarse con ropa interior térmica. Los trajes secos requieren un poco más de cuidado en su uso.
+
+Los trajes húmedos pueden ser cortos o largos y en función del número de piezas: trajes monopieza o de dos piezas (pantalón y chaqueta).
+
+El traje puede estar complementado por un par de guantes. Sin embargo, muchos países prohíben su uso, ya que los guantes facilitan el contacto con la fauna, flora y rocas existentes en el fondo, y, por lo tanto, su depredación.
+
+ 
+
+Escarpines (o chapines o "botines")
+
+	Son unas "botas" de neopreno que protegen los pies del frío y del roce de las aletas. Los trajes de buceo secos suelen incluir sus propios escarpines unidos al traje para mayor estanqueidad.
+Aletas
+
+	Las aletas, también llamadas gualetas chapaletas, o patas de rana, son dos palas que se prolongan desde los pies. Permiten avanzar a mayor velocidad bajo el agua y generalmente son de caucho u otros materiales sínteticos que les confieren rigidez transversal y flexibilidad longitudinal. Hay diferentes diseños y durezas de la pala que favorecen la velocidad (apnea) o la potencia (SCUBA) del aleteo bajo el agua.
+En función del tipo de sujeción al pie las aletas pueden ser abiertas o ajustables, que sujetan el pie con una cinta de goma a la altura del tendón de aquiles y que permiten un ajuste variable; o cerradas o calzantes, como un zapato de goma y sin posibilidad de ajuste variable. Las aletas abiertas permiten el uso de escarpines voluminosos y con suelas muy robustas, los escarpines a usar con aletas cerradas se parecen más a calcetines que a un clásico zapato.y tiene básicamente dos funciones, evita que los pies se enfríen y segundo que la fricción que tienen los pies con las aletas causen llagas
+
+ 
+
+ 
+
+Cinturón de lastre
+
+	Es el cinturón donde se sujeta el lastre. Éste es usado para facilitar la inmersión y compensar la flotabilidad positiva. En apnea permite vencer rápidamente el empuje positivo de la caja torácica llena de aire (que disminuye a medida que aumenta la profundidad). En apnea el peso del lastre no debe sumergir al buzo en reposo y la flotabilidad del mismo debe ser apenas negativa después de una expiración forzada. En SCUBA la flotabilidad es producto del empuje negativo del lastre y del empuje positivo del chaleco y el peso del lastre necesario dependerá principalmente del peso del buceador y del grosor del traje de buceo. El sistema de cierre debe ser firme y seguro, pero de fácil liberación en caso de emergencia.
+Equipo autónomo SCUBA
+
+	Regulador: primera etapa (que se acopla al tanque), con manguera de alta presión (manómetro) y tres de "baja" (presión intermedia) una al BCD, y dos a las segundas etapas y boquillas (principal y secundaria -u octopus-)
+Además del equipo básico o ligero, el equipo autónomo para el buceo SCUBA con aire integra los siguientes componentes:
+
+Botella de aire comprimido
+
+ 
+La botella es el recipientes de acero o aluminio que contienen el aire comprimido, y presenta una sola abertura donde se fija una grifería de control y acople. La grifería consiste en una válvula (tipo J o K), un grifo que controla la apertura o cierre de la botella y una o varias salidas de acople al regulador (tipo INT o estribo —una palomilla sujeta el regulador a la botella, donde hay una junta tórica para mantener la estanqueidad— y tipo DIN —que sujeta el regulador a la botella mediante una rosca, soporta mayores presiones).
+
+Hay varios tipos de botellas en función de su capacidad (de 5 a 18 L) y de la presión de trabajo que soportan (230 bares o 300 bares).
+
+Las botellas deben pasar revisiones periódicas para comprobar la fatiga de los metales, cada país tiene su normativa. Nunca se debe sobrepasar la presión de carga, ni exponerlas a temperaturas altas.
+
+
+Chaleco hidrostático (BCD) o (JACKET)
+
+Como su nombre indica es un chaleco, fusionado al arnés que soporta la botella a la espalda. Posee una cámara de aire que confiere flotabilidad positiva al buzo en superficie y permite ajustar la flotabilidad a voluntad para compensar la pérdida de empuje que se produce con la profundidad por efectos de la presión (al comprimirse el traje, la propia cámara de aire del BCD y algunas cavidades corporales). Para ello el chaleco tiene una cámara o vejiga que se une con una válvula de conexión al regulador y una boquilla que permiten inyectar aire directamente de la botella o soplando a través de la boquilla y varias válvulas de purga que permiten liberar aire durante el ascenso en el que se produce el fenómeno inverso. Tiene, también, una válvula de sobrepresión que asegura que la vejiga no estalle en caso de sobrepresión por inadvertencia o durante el ascenso. El chaleco hidrostático es para el buzo lo que la vejiga natatoria para el pez.
+
+El chaleco incluye también bolsillos y anillas para portar objetos necesarios para el buceador, así como las sujeciones necesarias para mantener dicho chaleco bien sujeto al buceador.
+
+Regulador
+
+Segunda etapa y boquilla del regulador
+
+	Es el elemento que ajusta la presión del aire de la botella para que el buceador pueda respirarlo. Consta de dos sistemas de regulación de la presión denominados etapas.
+La primera etapa recibe el aire directamente de la botella y mantiene un pequeño volumen de aire a una presión intermedia. La segunda etapa regula el flujo del aire desde la cámara de presión intermedia a la boquilla del buzo. El aire bajo presión de la botella pasa así de una cámara de alta presión a una de presión intermedia y finalmente a una de presión ambiente. A la cámara de alta se conecta el mánometro que indica la presión del tanque, a la cámara intermedia se conectan la (s) segunda (s) etapa (s) (boquilla principal y "octopus" o boquilla de emergencia) y la manguera de inflado de chaleco o traje seco.
+
+Dependiendo del sistema que utiliza, puede ser:
+
+De pistón simple, en el que un pistón permite el paso del aire. Son los más sencillos (y baratos), pero de características peores. A profundidades elevadas, o con escaso aire en la botella, el aire que proporciona es menor.
+De membrana compensada, en el que una membrana permite el paso del aire, pero aísla al regulador de la entrada del agua. Permite un flujo de aire al buceador que no varia con la profundidad.
+De pistón compensado (o sobrecompensado), de gama alta, permite un flujo de aire que no varia con la profundidad, pero no aísla al regulador del agua.
+ 
+
+Reloj, profundímetro , manometro y tablas de buceo con aire (u ordenador de buceo con aire)
+
+Para el buceo con botella es indispensable controlar el tiempo de fondo y la profundidad. Estos dos datos tabulados en una tabla de buceo le permiten al buzo mantenerse en los límites de seguridad. También existen ordenadores de buceo que integran directamente y en tiempo real el perfil de inmersión y alertan al buzo en caso de acercarse a los límites de seguridad.
+
+ El uso del ordenador nunca debe sustituir al profundimetro ,al manometro a las tablas ni al reloj es solo un complemento.
+Equipo accesorio
+
+Cuchillo
+
+	
+Cuchillo: por ley es necesario para bucear en muchos países. Permite cortar cabos abandonados o redes a la deriva que pudieran poner en peligro la vida del buceador.
+Linterna o foco: en las inmersiones diurnas ayudan a ver cuevas en las rocas o zonas con poca luz. En las inmersiones nocturnas, evidentemente, son imprescindibles. Las linternas suelen ser de menor potencia y a pilas, mientras que los focos suelen ser de mayor potencia y con batería recargable.
+Carrete: contiene un cabo de gran longitud que permite al buceador orientarse al seguirlo.
+Brújula o Compás: muy útil para orientarse bajo el agua.
+Cyalume o luz química: se atan a la botella o al BCD durante inmersiones nocturnas.
+Pizarra subacuática: permite la comunicación escrita o gráfica bajo el agua.
+Sonajero, maraca o bocina: permiten avisar mediante señales acústicas a un buceador próximo.
+Boya inflable: se puede inflar con el aire comprimido de la botella, sirve para marcar una posición, o como ayuda para sacar objetos pesados del agua.
